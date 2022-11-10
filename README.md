@@ -10,3 +10,4 @@ This system is a library assistant program that can be used on the online web. M
 can search the books by title, author, subject, add to cart and check out books, reserve 
 books, get book recommendations, and receive notifications to return. Librarians can 
 search the book and add, update, and remove the book. This project is written in C# and designed using Winforms. 
+The project is structured in 3 layers with the with the class files call BL with the updates that will be made to the database and calls the DAL file being the connection between to the database and with queries to update the values. 
