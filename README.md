@@ -12,15 +12,15 @@ books, get book recommendations, and receive notifications to return. Librarians
 search the book and add, update, and remove the book. This project is written in C# and designed using Winforms. 
 The project is structured in 3 layers with the with the class files call BL with the updates that will be made to the database and calls the DAL file being the connection between to the database and with queries to update the values. 
 
-## Roles and Functionality 
+#Roles and Functionality 
  
-# User
+## User
 
 Registration- A user can register to become a member.
 
 Login-Users can login with their password and username.
 
-# Member
+## Member
 
 Search book -Search a book based on certain criteria.
 
@@ -39,7 +39,7 @@ Add to cart-add a book to the user's cart.
 
 Rate book-rate the book, giving a book a 1 out of 5 star.
 
-# Librarian 
+## Librarian 
 
 Search book-Search a book based on certain criteria.
 
