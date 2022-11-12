@@ -6,6 +6,7 @@ Repo: https://github.com/sqrlmn/LA583
 ### Travis Cripe travis.cripe@wsu.edu 11519554
 ### Chris Minh Nguyen chris.m.nguyen@wsu.edu 11595663
 ## Download "LibrarianAssistant.zip", then extract it and run "setup.exe" to install and run our software.
+## Introduction
 This system is a library assistant program that can be used on the online web. Members 
 can search the books by title, author, subject, add to cart and check out books, reserve 
 books, get book recommendations, and receive notifications to return. Librarians can 
